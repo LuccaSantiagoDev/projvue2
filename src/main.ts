@@ -7,7 +7,7 @@ import axios from 'axios'
 import App from './App.vue'
 import router from './router'
 
-axios.defaults.baseURL = 'https://8080-nlemuel-springboot3app-gnifj1ljtwk.ws-us106.gitpod.io/'
+axios.defaults.baseURL = 'https://8080-mineda-springboot3app-yo7bz5ido0z.ws-us106.gitpod.io/'
 
 const app = createApp(App)
 

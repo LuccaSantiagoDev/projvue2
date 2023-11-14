@@ -8,10 +8,11 @@ import { RouterView } from 'vue-router'
 
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
-      <img alt="logo" class="logo" src="@/assets/tsukumo.jpg" width="425" height="465" />
+      <img alt="logo" class="logo" src="@/assets/658.png" width="405" height="600" />
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">Gerencie Vocábulos</RouterLink>
+        <RouterLink to="/prova">Temperaturas</RouterLink>
       </nav>
     </div>
   </header>
